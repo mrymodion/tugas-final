@@ -20,4 +20,4 @@ To build a web application where demographic and health information of a patient
   
 Followed Moez Ali's tutorial from https://towardsdatascience.com/build-and-deploy-your-first-machine-learning-web-app-e020db344a99
 
-(c) Norbert Eke
+(c) Kelompok 8 DTS
